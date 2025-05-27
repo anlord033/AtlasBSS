@@ -1,5 +1,5 @@
 -- Credits:
--- Made by 999Hash999
+-- Made by 999Hash
 -- UI Layout & Token Finding Inspired by Macro V3
 -- UI Library based on Elerium and Icons from Redz Lib
 -- This file was generated using Luraph Obfuscator v14.3 [https://lura.ph/]
